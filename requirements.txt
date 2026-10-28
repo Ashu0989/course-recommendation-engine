@@ -1,0 +1,13 @@
+pandas
+openpyxl
+langgraph
+langchain-core
+langchain-openai
+pydantic
+python-dotenv
+scikit-learn
+xgboost
+pyyaml
+thefuzz
+openai
+notebook

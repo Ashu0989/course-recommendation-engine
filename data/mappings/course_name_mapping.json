@@ -1,0 +1,4520 @@
+{
+    "Master of Artificial Intelligence": {
+        "catalog_id": 32,
+        "standardized_name": "Master of Artificial Intelligence for Land Use",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Computer Science (Research)": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Food Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma (PGDip) in Electronics": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Supply Chain Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Sport, Exercise and Health": {
+        "catalog_id": 176,
+        "standardized_name": "Master of Sport, Exercise and Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "MBA - Master of Business Administration": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Information Technology": {
+        "catalog_id": 1476,
+        "standardized_name": "Master of Information Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Management (Level 9)": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management in Business Analytics": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Certificate in Science": {
+        "catalog_id": 955,
+        "standardized_name": "Postgraduate Certificate in Applied Science (PGCertAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Business": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education Practice": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Technologies - Computing": {
+        "catalog_id": 50,
+        "standardized_name": "Master of Applied Computing",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business and Management (MBM)": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Construction Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Architecture (Professional)": {
+        "catalog_id": 927,
+        "standardized_name": "Master of Landscape Architecture",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Information Technology (MInfoTech)": {
+        "catalog_id": 1476,
+        "standardized_name": "Master of Information Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Cyber Security and Digital Forensics": {
+        "catalog_id": 184,
+        "standardized_name": "Master of Cyber Security and Digital Forensics",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Global Business - MGBus": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Educational Psychology - MEdPsych": {
+        "catalog_id": 1216,
+        "standardized_name": "Master of Educational Psychology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Practice - Mechanical Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of IT Project Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Physical Activity and Hauora": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences - Taught 120 points": {
+        "catalog_id": 1002,
+        "standardized_name": "Master of Health Sciences (MHealSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Hospitality Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science (PGDipSci) in Mathematics": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Social Work": {
+        "catalog_id": 1543,
+        "standardized_name": "Master of Social Work",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management in Project Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Management (Business Information Systems)": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Social and Community Work (Applied) (MSCW(Applied)": {
+        "catalog_id": 1543,
+        "standardized_name": "Master of Social Work",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Speech and Language Pathology": {
+        "catalog_id": 259,
+        "standardized_name": "Master of Speech and Language Pathology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning": {
+        "catalog_id": 332,
+        "standardized_name": "Master of Hōaka Pounamu | Māori Bilingual and Immersion Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (Human Performance Science)": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Agribusiness": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Construction (Construction Project Management)": {
+        "catalog_id": 149,
+        "standardized_name": "Master of Construction Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Finance": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Practice - Civil Engineering": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Information Technology": {
+        "catalog_id": 1476,
+        "standardized_name": "Master of Information Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Data Science": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences Professional Practice": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Applied Business": {
+        "catalog_id": 73,
+        "standardized_name": "Diploma in Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Science - Musculoskeletal Phy": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Accounting - Taught 180 points": {
+        "catalog_id": 1561,
+        "standardized_name": "Master of Professional Accounting",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Marketing": {
+        "catalog_id": 1042,
+        "standardized_name": "Master of Marketing (MMart)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management (Human Resource Management)": {
+        "catalog_id": 168,
+        "standardized_name": "Master of Water Science and Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Environmental Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Fine Arts - Creative Practice [Film]": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Analytics - FinTech - Taught 180 points": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance (MAppFin)": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Social Sciences - Public Policy": {
+        "catalog_id": 985,
+        "standardized_name": "Master of Public Policy",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning (MTchgLn)": {
+        "catalog_id": 332,
+        "standardized_name": "Master of Hōaka Pounamu | Māori Bilingual and Immersion Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Artificial Intelligence (180 Points)": {
+        "catalog_id": 32,
+        "standardized_name": "Master of Artificial Intelligence for Land Use",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Environmental Management - Taught 180 Points": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Studies": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Food Innovation": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Analytics - Supply Chain Management - Tau": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Information Systems": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Information Technology - Taught 180 points": {
+        "catalog_id": 1476,
+        "standardized_name": "Master of Information Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Tourism Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management - International Business - Taught 120 p": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Administration - Global Business": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Logistics and Supply Chain Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Applied Hotel Management NZQA Level": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management (International Business)": {
+        "catalog_id": 168,
+        "standardized_name": "Master of Water Science and Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health - MHlth": {
+        "catalog_id": 1425,
+        "standardized_name": "Master of Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Management (Business Management)": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Innovation and Leadership (MBIL)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Diploma - Community Healthcare and Support (Level 7)": {
+        "catalog_id": 1485,
+        "standardized_name": "Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning - Secondary Sector": {
+        "catalog_id": 1459,
+        "standardized_name": "Master of Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma of Teaching (Secondary) - GDipTchg (Seconda": {
+        "catalog_id": 1485,
+        "standardized_name": "Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Project Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching Early Childhood Education": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Environmental Planning (MEP)": {
+        "catalog_id": 1026,
+        "standardized_name": "Master of Planning (MPlan)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science in Medical Physics": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Science": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning - Primary Sector": {
+        "catalog_id": 1459,
+        "standardized_name": "Master of Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Public Health": {
+        "catalog_id": 1104,
+        "standardized_name": "Master of Public Health (MPH)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Public Health (DPH)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Administration": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science - Chemistry": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Renewable Energy – MRE": {
+        "catalog_id": 1448,
+        "standardized_name": "Master of Renewable Energy",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Accounting (MPAcct)": {
+        "catalog_id": 1561,
+        "standardized_name": "Master of Professional Accounting",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Analytics": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education (MEd) in Education": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma of Health Science (PGDipHSc)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Computing (12 months)": {
+        "catalog_id": 50,
+        "standardized_name": "Master of Applied Computing",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management (Marketing)": {
+        "catalog_id": 168,
+        "standardized_name": "Master of Water Science and Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Leadership - Taught 120 points": {
+        "catalog_id": 1425,
+        "standardized_name": "Master of Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws (LLM)": {
+        "catalog_id": 21,
+        "standardized_name": "Master of Laws by research portfolio",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Disaster Risk Management and Development": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Psychology - Research 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws - Corporate and Commercial Law - Taught 120 p": {
+        "catalog_id": 1549,
+        "standardized_name": "Master of Laws",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Finance": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce in Global Management and Innovation": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Computer Science - MCompSc": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Digital Business": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce in Marketing": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies in Renewable Energy Engineerin": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering (Coursework Pathway)": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Computer and Information Sciences": {
+        "catalog_id": 246,
+        "standardized_name": "Master of Computer and Information Sciences",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Finance (Financial Analytics and Research)": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Analytics - Business": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management in Supply Chain Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies in Construction Management": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws by coursework": {
+        "catalog_id": 1549,
+        "standardized_name": "Master of Laws",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Finance (Risk Analytics)": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Philosophy": {
+        "catalog_id": 1551,
+        "standardized_name": "Master of Philosophy",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Artificial Intelligence (120 Points)": {
+        "catalog_id": 32,
+        "standardized_name": "Master of Artificial Intelligence for Land Use",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Civil Engineering": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering- Transportation Engineering - Ta": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Construction (Digital Built Environment)": {
+        "catalog_id": 149,
+        "standardized_name": "Master of Construction Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Accounting": {
+        "catalog_id": 1561,
+        "standardized_name": "Master of Professional Accounting",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Food Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences Professional Practice - Health Lea": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Business Analysis - MBusAn": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Construction Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Financial Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Analytics - Marketing - Taught 180 points": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Practice - Electronics": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Business (Supply Chain and Logistics)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Precision Agriculture": {
+        "catalog_id": 87,
+        "standardized_name": "Master of Precision Agriculture",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences (Environment and Health)": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Design": {
+        "catalog_id": 182,
+        "standardized_name": "Master of Architectural Design Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies in Mechanical Engineering": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Environmental Science - Taught 180 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Teaching (Secondary)": {
+        "catalog_id": 234,
+        "standardized_name": "Graduate Diploma in Secondary Teaching",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Civil Engineering": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Medical Engineering - Medical Devices and Technolo": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Accounting - MPA": {
+        "catalog_id": 1561,
+        "standardized_name": "Master of Professional Accounting",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Arts - Economics": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Arts - Educational Psychology": {
+        "catalog_id": 951,
+        "standardized_name": "Diploma in Arts (DipArts)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Information Technology (2 Years)": {
+        "catalog_id": 1476,
+        "standardized_name": "Master of Information Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies in Chemical and Materials Engi": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Supply Chain Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Materials Engineering - Energy and Environmental M": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Administration - Business Sustainability": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Leadership - Taught 180 points": {
+        "catalog_id": 1425,
+        "standardized_name": "Master of Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Agricultural Science": {
+        "catalog_id": 111,
+        "standardized_name": "Postgraduate Diploma in Agricultural Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Artificial Intelligence": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science (PGDipSci) in Biological Sci": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Hospitality Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Leadership and Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Marketing - Taught 180 points": {
+        "catalog_id": 1042,
+        "standardized_name": "Master of Marketing (MMart)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Food Technology": {
+        "catalog_id": 1288,
+        "standardized_name": "Master of Food Technology – MFoodTech",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws - Corporate and Commercial Law - Research 120": {
+        "catalog_id": 1549,
+        "standardized_name": "Master of Laws",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Teaching (PGDipTchg)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Transportation Engineering": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Analytics": {
+        "catalog_id": 152,
+        "standardized_name": "Master of Analytics",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management": {
+        "catalog_id": 168,
+        "standardized_name": "Master of Water Science and Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Psychology": {
+        "catalog_id": 1473,
+        "standardized_name": "Master of Applied Psychology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science (PGDipSci) in Physics": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Psychology - MHlthPsyc": {
+        "catalog_id": 1425,
+        "standardized_name": "Master of Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Business - Without Specialisation": {
+        "catalog_id": 73,
+        "standardized_name": "Diploma in Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Tourism Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Finance Specialisation": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws - Law - Taught 120 points": {
+        "catalog_id": 1549,
+        "standardized_name": "Master of Laws",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Information Sciences": {
+        "catalog_id": 246,
+        "standardized_name": "Master of Computer and Information Sciences",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Accountancy": {
+        "catalog_id": 1322,
+        "standardized_name": "Master of Professional Accountancy (Chartered Accountant) – MPAcc(CA)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Hotel Management NZQA Level 9": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Business (International Business – T": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Relations and Diplomacy": {
+        "catalog_id": 624,
+        "standardized_name": "Master of International Relations and Diplomacy",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning - Primary Teaching": {
+        "catalog_id": 1459,
+        "standardized_name": "Master of Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management by Thesis": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Certificate in Science and Technology": {
+        "catalog_id": 1271,
+        "standardized_name": "Postgraduate Certificate in Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Educational Leadership (MEd Leadership)": {
+        "catalog_id": 1466,
+        "standardized_name": "Master of Educational Leadership",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Engineering": {
+        "catalog_id": 276,
+        "standardized_name": "Professional Master of Engineering Geology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Construction Project Management": {
+        "catalog_id": 1485,
+        "standardized_name": "Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - English - Taught 180 points": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Health Sciences (Wellness and Rehabilitati": {
+        "catalog_id": 1002,
+        "standardized_name": "Master of Health Sciences (MHealSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Cyber Security": {
+        "catalog_id": 184,
+        "standardized_name": "Master of Cyber Security and Digital Forensics",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Infrastructure Asset Management - Network Manageme": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Screen Arts": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Visual Arts": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Pharmacy Practice": {
+        "catalog_id": 954,
+        "standardized_name": "Master of Pharmacy (MPharm)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Information Technology (MIT)": {
+        "catalog_id": 1476,
+        "standardized_name": "Master of Information Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Education": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Biomedical Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management (Management)": {
+        "catalog_id": 168,
+        "standardized_name": "Master of Water Science and Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Geotechnical Engineering": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Geology": {
+        "catalog_id": 276,
+        "standardized_name": "Professional Master of Engineering Geology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Structural Engineering": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Civil Engineering - Research 1": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Food and Agriculture": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce (MCom) in Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Engineering Geology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning-Teaching (Primary)": {
+        "catalog_id": 332,
+        "standardized_name": "Master of Hōaka Pounamu | Māori Bilingual and Immersion Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Chemistry - Research 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Computing": {
+        "catalog_id": 50,
+        "standardized_name": "Master of Applied Computing",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Construction (Quantity Surveying)": {
+        "catalog_id": 149,
+        "standardized_name": "Master of Construction Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Public Health": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Biotechnology": {
+        "catalog_id": 826,
+        "standardized_name": "Master of Biotechnology MBiotech",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management by Coursework": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Fintech and Investment Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Fintech and Investment Management (1 year)": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Social Work": {
+        "catalog_id": 1320,
+        "standardized_name": "Master of Social Work – MSW",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education (180 points)": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Psychology - Behaviour Analysis": {
+        "catalog_id": 1473,
+        "standardized_name": "Master of Applied Psychology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning-Teaching (Secondary)": {
+        "catalog_id": 332,
+        "standardized_name": "Master of Hōaka Pounamu | Māori Bilingual and Immersion Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Fire Engineering Studies": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Speech and Language Therapy": {
+        "catalog_id": 1293,
+        "standardized_name": "Master of Speech and Language Therapy – MSpchLangTher",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Practice - Materials and Processing": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning - Early Childhood Teaching": {
+        "catalog_id": 1459,
+        "standardized_name": "Master of Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts in Social Policy - 120 points": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business (Global Management and Marketing)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws - Corporate and Commercial Law": {
+        "catalog_id": 1549,
+        "standardized_name": "Master of Laws",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Wine Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Environmental Engineering - Ta": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance - Financial Analytics": {
+        "catalog_id": 152,
+        "standardized_name": "Master of Analytics",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma (PGDip) in Psychology": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Psychology": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Diploma in Postgraduate Preparation – Pre-Masters (DipPP)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Manual Program (Postgraduate) - NZ": {
+        "catalog_id": null,
+        "standardized_name": null,
+        "confidence_score": 63,
+        "resolution_method": "manual_review_required"
+    },
+    "Postgraduate Diploma in Applied Management": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Accountancy (Chartered Accountant)": {
+        "catalog_id": 1322,
+        "standardized_name": "Master of Professional Accountancy (Chartered Accountant) – MPAcc(CA)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Media and Creative Technologies - Screen and Media": {
+        "catalog_id": 451,
+        "standardized_name": "Master of Creative Technologies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management - Marketing - Taught 180 points": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "MBA - Master of Business Administration (Without Specialisat": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Gastronomy": {
+        "catalog_id": 163,
+        "standardized_name": "Master of Gastronomy",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Social Work (Professional)": {
+        "catalog_id": 1320,
+        "standardized_name": "Master of Social Work – MSW",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Food Science - Research 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Engineering (Construction Management": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Environmental Management": {
+        "catalog_id": 72,
+        "standardized_name": "Postgraduate Diploma in Environmental Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Architecture (Professional) and Urban Design": {
+        "catalog_id": 1468,
+        "standardized_name": "Master of Design",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Studies in Data Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Marketing": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Design (MDes)": {
+        "catalog_id": 182,
+        "standardized_name": "Master of Architectural Design Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Data Science - Taught 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Information Technology - Taught 120 points": {
+        "catalog_id": 1476,
+        "standardized_name": "Master of Information Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Construction Engineering Resea": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Environmental Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Sport Leadership and Management Special": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Studies (Marketing)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management in Marketing": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Child and Family Psychology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Sustainable Practice": {
+        "catalog_id": null,
+        "standardized_name": null,
+        "confidence_score": 84,
+        "resolution_method": "manual_review_required"
+    },
+    "Master of Construction": {
+        "catalog_id": 149,
+        "standardized_name": "Master of Construction Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Organisational Psychology - Taught 180 points": {
+        "catalog_id": 555,
+        "standardized_name": "Master of Organisational Psychology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies in Software Engineering": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Applied Data Science": {
+        "catalog_id": 220,
+        "standardized_name": "Diploma in Applied Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance and Economics": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Intelligence (Level 9)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Certificate in Business": {
+        "catalog_id": 1386,
+        "standardized_name": "Postgraduate Certificate in Business (Professional)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science by Coursework and Thesis - Cognitive and B": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health, Sport and Human Performance (MHSHP)": {
+        "catalog_id": 1425,
+        "standardized_name": "Master of Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Certificate in Sport, Exercise and Health": {
+        "catalog_id": 181,
+        "standardized_name": "Postgraduate Certificate in Sport, Exercise and Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Data Science (MBusDataSc)": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Accounting - Chartered Accountancy": {
+        "catalog_id": 1561,
+        "standardized_name": "Master of Professional Accounting",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma of Applied Technologies-Computing": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Software Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Sciences": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Informatics - Business Analytics": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Business (Taught - 180)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Teaching (Primary)": {
+        "catalog_id": 234,
+        "standardized_name": "Graduate Diploma in Secondary Teaching",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Applied Management (Business Managem": {
+        "catalog_id": 73,
+        "standardized_name": "Diploma in Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Ecology": {
+        "catalog_id": 554,
+        "standardized_name": "Master of Ecology MEcology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Policy and Governance": {
+        "catalog_id": 650,
+        "standardized_name": "Master of Policy and Governance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Disaster Management - Disaster Management - Taught": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management in Agribusiness": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Smart Infrastructure": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Veterinary Studies": {
+        "catalog_id": 1366,
+        "standardized_name": "Master of Veterinary Studies – MVS",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Drug Discovery and Development - MDDD": {
+        "catalog_id": 740,
+        "standardized_name": "Master of Drug Discovery and Development",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Infrastructure Asset Management - Taught 180 point": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Aviation": {
+        "catalog_id": 1122,
+        "standardized_name": "Master of Aviation Medicine (MAvMed)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Practice – MEP": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Food Safety and Quality": {
+        "catalog_id": 1369,
+        "standardized_name": "Master of Food Safety and Quality – MFoodSafQual",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws (International Law and Politics)": {
+        "catalog_id": 21,
+        "standardized_name": "Master of Laws by research portfolio",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Speech and Language Sciences": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Communication Studies": {
+        "catalog_id": 413,
+        "standardized_name": "Master of Communication Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Information Technology - Taught 240 points": {
+        "catalog_id": 1476,
+        "standardized_name": "Master of Information Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Executive Master of Business Administration": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Robotics and Automation Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Sciences - Health Sciences": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Sustainable Development Goals (Environmental Susta": {
+        "catalog_id": 1249,
+        "standardized_name": "Master of Sustainable Development Goals – MSDG",
+        "confidence_score": 94,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Sustainable Development Goals": {
+        "catalog_id": 1249,
+        "standardized_name": "Master of Sustainable Development Goals – MSDG",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Data Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Chemical and Materials Engin": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Leadership - Health Management - Taught 120": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Accounting (Taught 180 points)": {
+        "catalog_id": 1561,
+        "standardized_name": "Master of Professional Accounting",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Product Innovation": {
+        "catalog_id": 659,
+        "standardized_name": "Master of Product Innovation",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Construction Management - Ta": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Artificial Intelligence - MAI": {
+        "catalog_id": 1555,
+        "standardized_name": "Master of Artificial Intelligence",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Marketing": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (Plant Breeding)": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Arts - Media Studies": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences (Health Leadership and Management)": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Human Resource Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business (Global Management and Marketing) (18 mon": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Mechanical engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Environmental Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Biomedical Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning (Early Childhood Education)": {
+        "catalog_id": 332,
+        "standardized_name": "Master of Hōaka Pounamu | Māori Bilingual and Immersion Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Healthcare with specialisations in M": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Practice (Social Practice)": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 86,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Information Technology (Level 9)": {
+        "catalog_id": 1476,
+        "standardized_name": "Master of Information Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Forensic Science": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Studies (Management)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Nursing Science (Pre-Registration)": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health": {
+        "catalog_id": 1501,
+        "standardized_name": "Master of Health Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Business (Level 7)": {
+        "catalog_id": 6,
+        "standardized_name": "Graduate Diploma in Business and Sustainability",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Management (HB4082)": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Biotechnology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Agribusiness": {
+        "catalog_id": 88,
+        "standardized_name": "Master of Management in Agribusiness",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning (Primary)": {
+        "catalog_id": 332,
+        "standardized_name": "Master of Hōaka Pounamu | Māori Bilingual and Immersion Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Administration - Digital Transformation": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Music Therapy by Coursework and Research": {
+        "catalog_id": 1462,
+        "standardized_name": "Master of Music",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - International Business Specialisation": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Logistics and Supply Chain Managemen": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Sport Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Studies (Finance)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - English": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Counselling Theory": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Tourism": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Teaching and Learning (Early Childhood)": {
+        "catalog_id": 691,
+        "standardized_name": "Graduate Diploma in Teaching and Learning (Early Childhood)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Data Analytics (Level 9)": {
+        "catalog_id": 152,
+        "standardized_name": "Master of Analytics",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance - Applied Finance": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health - Workplace Health and Safety": {
+        "catalog_id": 1425,
+        "standardized_name": "Master of Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Creative Enterprise and Innovation": {
+        "catalog_id": 750,
+        "standardized_name": "Master of Design Innovation",
+        "confidence_score": 85,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Aerospace Engineering - Aerospace Engineering - Ta": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Management - Strategic Management - Taugh": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Civil Engineering - Taught 1": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (Agricultural Science)": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Computer Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Sciences in Medical Imaging": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Food Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Early Childhood Education": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts in Psychology": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Software Engineering - Taugh": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Marketing Specialisation": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Applied Management (Level 8)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health, Sport and Human Performance": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Computing": {
+        "catalog_id": 1485,
+        "standardized_name": "Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Molecular and Cellular Biology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Informatics - Healthcare Informatics": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Teaching and Learning - Early Childh": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Computer Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education (Early Childhood Education)": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education (MEd) in Counselling Studies": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science - Microbiology": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Environmental Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Computer Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Landscape Architecture": {
+        "catalog_id": 927,
+        "standardized_name": "Master of Landscape Architecture",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Molecular and Cellular Biology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Science - Health Care Ethics": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (Animal Science)": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Studies (Human Resource Management)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Human Interface Technology": {
+        "catalog_id": 684,
+        "standardized_name": "Master of Human Interface Technology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies in Electrical and Electronic E": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management (Sustainability)": {
+        "catalog_id": 168,
+        "standardized_name": "Master of Water Science and Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Studies in Digital Security": {
+        "catalog_id": 1467,
+        "standardized_name": "Master of Cyber Security",
+        "confidence_score": 86,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Architecture (Professional) - MArch(Prof)": {
+        "catalog_id": 1413,
+        "standardized_name": "Master of Architecture",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Disability and Inclusion Studies": {
+        "catalog_id": 1509,
+        "standardized_name": "Master of Disability and Inclusion Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Information Technology (PGDIT)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Environmental Science - MEnvSc": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce - Operations and Supply Chain Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Tourism Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws": {
+        "catalog_id": 21,
+        "standardized_name": "Master of Laws by research portfolio",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Statistics - Taught 120 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Financial Analysis": {
+        "catalog_id": 673,
+        "standardized_name": "Master of Financial Analysis",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (Horticultural Science)": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Microbiology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Management (Business Analytics)": {
+        "catalog_id": 72,
+        "standardized_name": "Postgraduate Diploma in Environmental Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Technology Innovation in Business": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Education (Early Childhood Education": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Electrical and Electronic En": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies in Mechatronics Engineering": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business- International Business": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Cyber Security (MCS)": {
+        "catalog_id": 184,
+        "standardized_name": "Master of Cyber Security and Digital Forensics",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Chemistry": {
+        "catalog_id": 591,
+        "standardized_name": "Master of Chemistry MChem",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (Zoology)": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Pharmacology - Research 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance - Business": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health - Health Leadership and Manag": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Wine Business and Innovation": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science in Sustainable Energy": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Practice in Nursing": {
+        "catalog_id": 455,
+        "standardized_name": "Master of Health Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Artificial Intelligenc": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Management (180 credit)": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning (Early Childhood)": {
+        "catalog_id": 332,
+        "standardized_name": "Master of Hōaka Pounamu | Māori Bilingual and Immersion Teaching and Learning",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Data Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences (Health Information Management)": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business- Information Systems": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance - Sustainable Finance": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering in Mechanical Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Wine Science": {
+        "catalog_id": 759,
+        "standardized_name": "Diploma in Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management (Communication)": {
+        "catalog_id": 168,
+        "standardized_name": "Master of Water Science and Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science by coursework and thesis - Forensic Psycho": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Nursing Science (MNSc)": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Agricultural Science": {
+        "catalog_id": 36,
+        "standardized_name": "Master of Agricultural Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Physiotherapy (MPhty)": {
+        "catalog_id": 150,
+        "standardized_name": "Master of Physiotherapy Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Certificate in Health - Health Leadership and M": {
+        "catalog_id": 479,
+        "standardized_name": "Certificate in Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Pharmacology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Medical Laboratory Science (PGDipMLS": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Structural Engineering - Taugh": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health - PGDipHlth": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science by coursework and thesis - Geology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Medical Laboratory Science": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws - International Law": {
+        "catalog_id": 1549,
+        "standardized_name": "Master of Laws",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering in Civil Engineering": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Mechatronics Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management - International Business - Taught 180 p": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Biotechnology - Biotechnology - Taught 180 points": {
+        "catalog_id": 826,
+        "standardized_name": "Master of Biotechnology MBiotech",
+        "confidence_score": 92,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts (Coursework) (MA(Coursework)) in Communicatio": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Chemical and Materials Engineering -": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Wine Science - Research 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Nursing Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance - International Business": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (Biological Sciences)": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Social Work (Applied)": {
+        "catalog_id": 1320,
+        "standardized_name": "Master of Social Work – MSW",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Physiotherapy Practice": {
+        "catalog_id": 150,
+        "standardized_name": "Master of Physiotherapy Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Biomedical Science by thesis": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Biomedical Science": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Accounting": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Construction Engineering Taugh": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Sport and Recreation Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Physiotherapy in Orthopaedic Manipulative Therapy": {
+        "catalog_id": 1030,
+        "standardized_name": "Master of Physiotherapy (MPhty)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences (MHealSc)": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health - Health Policy, Planning and Service Deliv": {
+        "catalog_id": 1026,
+        "standardized_name": "Master of Planning (MPlan)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Business Management": {
+        "catalog_id": 73,
+        "standardized_name": "Diploma in Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Counselling (MCouns)": {
+        "catalog_id": 1532,
+        "standardized_name": "Master of Counselling",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Exercise Sciences": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - International Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance - Marketing": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Management": {
+        "catalog_id": 72,
+        "standardized_name": "Postgraduate Diploma in Environmental Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Physiotherapy in Orthopaedic Manipul": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Counselling": {
+        "catalog_id": 1532,
+        "standardized_name": "Master of Counselling",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Nursing Practice": {
+        "catalog_id": 582,
+        "standardized_name": "Master of Advanced Nursing Practice (MAdvNP)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Biomedical Sciences (MBiomedSc)": {
+        "catalog_id": 1101,
+        "standardized_name": "Master of Biomedical Sciences (MBiomedSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences (Nursing) - Online": {
+        "catalog_id": 1002,
+        "standardized_name": "Master of Health Sciences (MHealSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Relations - MIR": {
+        "catalog_id": 758,
+        "standardized_name": "Master of International Relations",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Clinical Immunology": {
+        "catalog_id": 771,
+        "standardized_name": "Master of Clinical Research",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Accounting Specialisation": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Earth Sciences": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts in Economics": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Geospatial Data Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Nursing - Taught 120 points": {
+        "catalog_id": 1190,
+        "standardized_name": "Master of Nursing – MN",
+        "confidence_score": 92,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Agribusiness Management": {
+        "catalog_id": 1485,
+        "standardized_name": "Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management - Marketing - Taught 120 points": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Accounting and Finance (MAccFin)": {
+        "catalog_id": 1006,
+        "standardized_name": "Discontinued programme - Master of Accounting and Finance (MAccFin)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Pharmacy": {
+        "catalog_id": 511,
+        "standardized_name": "Master of Clinical Pharmacy MClinPharm",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Sport, Exercise and Health": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Social Work (MSW)": {
+        "catalog_id": 1320,
+        "standardized_name": "Master of Social Work – MSW",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Public Management - MPM": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts with Endorsements in Design, Music, Visual Ar": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering in Computer Systems Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Environment and Agriculture": {
+        "catalog_id": 40,
+        "standardized_name": "Master of Environment and Agriculture",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Art History - Taught 180 points": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce and Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws - Litigation and Dispute Resolution - Taught": {
+        "catalog_id": 1549,
+        "standardized_name": "Master of Laws",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Sport and Exercise Science": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science (PGDipSci) in Psychology": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Water Resource Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Entrepreneurship and Innovation": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Psychology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science by thesis - Data Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Sport, Exercise and Health": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Cognitive Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Public Health (MPH)": {
+        "catalog_id": 1104,
+        "standardized_name": "Master of Public Health (MPH)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Computer Science - Research 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Nursing Practice - MNursPrac": {
+        "catalog_id": 1456,
+        "standardized_name": "Master of Nursing Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce (by coursework and thesis)": {
+        "catalog_id": 82,
+        "standardized_name": "Master of Commerce and Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Finance - Accounting": {
+        "catalog_id": 1488,
+        "standardized_name": "Master of Applied Finance",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health - Health Promotion": {
+        "catalog_id": 1425,
+        "standardized_name": "Master of Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Marine Conservation - Taught 180 points": {
+        "catalog_id": 1377,
+        "standardized_name": "Master of Marine Conservation",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - History": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - International Relations and Security Studie": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Nursing Science (Level 9) (Invercargill)": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Accounting (CPA)": {
+        "catalog_id": 1561,
+        "standardized_name": "Master of Professional Accounting",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Plant Biotechnology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Business Analytics": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business- Sport Leadership and Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Project Management - Taught 120 points": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Exercise Sciences - Research 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Microbiology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma of Teaching (Primary) - GDipTchg (Primary)": {
+        "catalog_id": 1485,
+        "standardized_name": "Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Sciences in Ultrasound": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering in Electrical and Electronic Engineeri": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce - Commercial Law - Taught 120 points": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Artificial Intelligence": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Teaching and Learning (Primary Education": {
+        "catalog_id": 691,
+        "standardized_name": "Graduate Diploma in Teaching and Learning (Early Childhood)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Medical Science (MMedSc)": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts (Thesis) (MA(Thesis)) in English": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education - Early Childhood - Taught 180 points": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Clinical Pharmacy": {
+        "catalog_id": 511,
+        "standardized_name": "Master of Clinical Pharmacy MClinPharm",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts (Coursework) (MA(Coursework)) in Film and Med": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Design - Mdes": {
+        "catalog_id": 1468,
+        "standardized_name": "Master of Design",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Criminology - Taught 180 points": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - 180 points": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Sciences - Health and Communi": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of User Experience Design": {
+        "catalog_id": 1468,
+        "standardized_name": "Master of Design",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Creative Arts Therapy": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering (ME)": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce - Marketing - Taught 120 points": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Transportation Engineering - R": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Counselling Psychology": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Industrial and Organisational Psycholog": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences Professional Practice - Health and": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Nursing Science - Taught 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Management Specialisation": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Practice in Musculoskeletal Physiotherapy": {
+        "catalog_id": 150,
+        "standardized_name": "Master of Physiotherapy Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Robotics and Automation Engineering - Taught 120 p": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science and Technology (Animal Scien": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma (PGDip) in Tourism and Hospitality Mana": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Bioinformatics - Research 120 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Plant Biotechnology": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Politics and International Relations - Taug": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts in Digital Humanities": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Biotechnology - Bioinformatics - Taught 180 points": {
+        "catalog_id": null,
+        "standardized_name": null,
+        "confidence_score": 84,
+        "resolution_method": "manual_review_required"
+    },
+    "Master of Engineering Studies - Food Process Engineering - T": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Information Systems Specialisation": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Practice in Violence and Trauma Studies": {
+        "catalog_id": 455,
+        "standardized_name": "Master of Health Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Psychology - Community Psychology": {
+        "catalog_id": 1473,
+        "standardized_name": "Master of Applied Psychology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce - Taught 180 points": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Sustainability and Outdoor Education": {
+        "catalog_id": 1485,
+        "standardized_name": "Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Information Systems and Technology": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Disaster Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Bioengineering": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Disability and Inclusion Studies (MDInS)": {
+        "catalog_id": 1509,
+        "standardized_name": "Master of Disability and Inclusion Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce in Finance": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Public Health - Taught 120 points": {
+        "catalog_id": 1104,
+        "standardized_name": "Master of Public Health (MPH)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health - Nursing": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Practice - Addiction Studies - Taught 120 p": {
+        "catalog_id": 455,
+        "standardized_name": "Master of Health Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Emergency Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education - Research 180 points": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce - Information Systems - Taught 120 points": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science by Coursework and Thesis - Biotechnology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Clinical Pharmacy": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science - Software Engineering": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Communication Studies - Inclusive Journalism": {
+        "catalog_id": 413,
+        "standardized_name": "Master of Communication Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma of Teaching (Early Childhood Education)": {
+        "catalog_id": 1159,
+        "standardized_name": "Graduate Diploma of Learning and Teaching – GradDipLnTchg",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Horticultural Science": {
+        "catalog_id": 34,
+        "standardized_name": "Master of Horticultural Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Zoology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Construction (Sustainable Built Environment)": {
+        "catalog_id": 149,
+        "standardized_name": "Master of Construction Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Forensic Science - Research 240 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Fine Arts- Fine Arts": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Marine Conservation": {
+        "catalog_id": 866,
+        "standardized_name": "Master of Marine Conservation MMarineCons",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health, Sport and Human Performance": {
+        "catalog_id": 1425,
+        "standardized_name": "Master of Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning - Early Childhood Education": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science in Child and Family Psycholo": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences - Rehabilitation": {
+        "catalog_id": 1002,
+        "standardized_name": "Master of Health Sciences (MHealSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Applied Geology": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Data Science - MDataSc": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies in Fire Engineering": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma (PGDip) in Materials and Processing": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Civil Engineering - Research 120 poi": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Economics Specialisation": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Biological Sciences": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Screen and Media Studies": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Construction (Without Specialisation)": {
+        "catalog_id": 149,
+        "standardized_name": "Master of Construction Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Media and Screen Studies - Taught 180 point": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Practice (Level 8)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Strategic Studies - MSS": {
+        "catalog_id": 380,
+        "standardized_name": "Master of Strategic Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce in Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Chemistry": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Computer Science": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Veterinary Studies - Veterinary Public Health": {
+        "catalog_id": 1104,
+        "standardized_name": "Master of Public Health (MPH)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Energy - Taught 120 points": {
+        "catalog_id": 831,
+        "standardized_name": "Master of Energy MEnergy",
+        "confidence_score": 89,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Music (MMus)": {
+        "catalog_id": 1462,
+        "standardized_name": "Master of Music",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Teaching (Early Childhood Education) (GD": {
+        "catalog_id": 1508,
+        "standardized_name": "Graduate Diploma in Teaching",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Intellectual Property": {
+        "catalog_id": 834,
+        "standardized_name": "Master of Intellectual Property MIP",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Strategic Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Architecture": {
+        "catalog_id": 927,
+        "standardized_name": "Master of Landscape Architecture",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Energy - Taught 180 points": {
+        "catalog_id": 831,
+        "standardized_name": "Master of Energy MEnergy",
+        "confidence_score": 89,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Electrical and Electronic Engineerin": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Food Engineering - Taught 12": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences Professional Practice - Palliative": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Music": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc)": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Professional Studies - Adult Teaching": {
+        "catalog_id": 1529,
+        "standardized_name": "Master of Legal Studies",
+        "confidence_score": 85,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in the Practice of Psychology": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering (Research Pathway)": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Archaeological Practice in Archaeology": {
+        "catalog_id": 930,
+        "standardized_name": "Master of Archaeological Practice (MArchP)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Practice": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Architectural Engineering - Structural Engineering": {
+        "catalog_id": 324,
+        "standardized_name": "Master of Architectural Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Applied Finance": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce in Accounting": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Chemistry - Analytical Chemistry - Taught 180 poin": {
+        "catalog_id": 591,
+        "standardized_name": "Master of Chemistry MChem",
+        "confidence_score": 86,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce (MCom) in Accounting": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Science - Computer Science": {
+        "catalog_id": 759,
+        "standardized_name": "Diploma in Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Film": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Trade - MIntTr": {
+        "catalog_id": 531,
+        "standardized_name": "Master of International Trade",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Statistics": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce (MCom) in Finance": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Environmental Science - Research 180 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Practice (MEngPrac)": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Artificial Intelligence": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Civil Engineering - Construction Engineering - Tau": {
+        "catalog_id": 307,
+        "standardized_name": "Master of Civil Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Biotechnology - Protein Engineering - Taught 180 p": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Applied Health Sciences (Wellness an": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health (No specialisation)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Aerospace Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Communication - MC": {
+        "catalog_id": 1313,
+        "standardized_name": "Master of Communication – MC",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Certificate (PGCert) in Educational Leadership": {
+        "catalog_id": 1491,
+        "standardized_name": "Postgraduate Certificate",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Design - Communication Design": {
+        "catalog_id": 1468,
+        "standardized_name": "Master of Design",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Infrastructure Asset Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Neuroscience": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce by Coursework and Research- International": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science (PGDipSci) in Exercise Scien": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Practice": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Project Management - Taught 180 points": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Education": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Software Development - MSwDev": {
+        "catalog_id": 814,
+        "standardized_name": "Master of Software Development",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Earthquake Engineering - Taught 120 points": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Architectural Engineering": {
+        "catalog_id": 324,
+        "standardized_name": "Master of Architectural Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science by coursework and thesis - Psychology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Management (PGDipHealMgt)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Science - Data Science": {
+        "catalog_id": 759,
+        "standardized_name": "Diploma in Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Applied Science": {
+        "catalog_id": 220,
+        "standardized_name": "Diploma in Applied Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Development": {
+        "catalog_id": 994,
+        "standardized_name": "Master of International Development and Planning (MIDP)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Design": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education and Learning (MEdLn)": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Molecular and Cellular Biology (Research": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Design - Taught 120 points": {
+        "catalog_id": 1468,
+        "standardized_name": "Master of Design",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Practice in Rehabilitation": {
+        "catalog_id": 455,
+        "standardized_name": "Master of Health Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Oral Health (MOH)": {
+        "catalog_id": 1088,
+        "standardized_name": "Master of Oral Health (MOH)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Sustainable Development Goals (Global Development)": {
+        "catalog_id": 1249,
+        "standardized_name": "Master of Sustainable Development Goals – MSDG",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Design - Digital Design": {
+        "catalog_id": 1468,
+        "standardized_name": "Master of Design",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Molecular Biotechnolog": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Human Nutrition": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Professional Studies - Mentoring and Leade": {
+        "catalog_id": 1529,
+        "standardized_name": "Master of Legal Studies",
+        "confidence_score": 85,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Science in Advanced Nursing Practice": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Software Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science - Data Science": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Sport and Exercise": {
+        "catalog_id": 454,
+        "standardized_name": "Graduate Diploma in Sport and Exercise",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Biotechnology - Molecular Cell Biology and Genetic": {
+        "catalog_id": null,
+        "standardized_name": null,
+        "confidence_score": 84,
+        "resolution_method": "manual_review_required"
+    },
+    "Master of International Business (MIntBus)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws - International Law - Taught 120 points": {
+        "catalog_id": 1549,
+        "standardized_name": "Master of Laws",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Architectural Science in Sustainable Engineering S": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science (PGDipSci) in Neuroscience": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science": {
+        "catalog_id": 23,
+        "standardized_name": "Postgraduate Diploma in Horticultural Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business - Accounting and Finance": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Hotel Management": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Geographic Information": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Physics": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering in Software Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Psychology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Food Engineering - Taught 18": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Medical Physics": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Development and Planning (MIDP)": {
+        "catalog_id": 1026,
+        "standardized_name": "Master of Planning (MPlan)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Creative Practice": {
+        "catalog_id": 455,
+        "standardized_name": "Master of Health Practice",
+        "confidence_score": 85,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce by Coursework and Research - Accounting": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Environmental Sciences": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Teaching and Learning - Secondary Education": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Environmental Manageme": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Landscape Architecture - MLA": {
+        "catalog_id": 927,
+        "standardized_name": "Master of Landscape Architecture",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Pharmacology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Medical Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Social Sciences - Political Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science by coursework and thesis in Data Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Chemistry": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Psychology": {
+        "catalog_id": 777,
+        "standardized_name": "Master of Health Psychology MHealthPsych",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education- Inclusive Education - Taught 180 points": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Wildlife Management (MWLM)": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in International Hospitality Management": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Osteopathy": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Veterinary Science": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Business": {
+        "catalog_id": 73,
+        "standardized_name": "Diploma in Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health and Social Practice (Level 8)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Society - MScSoc": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - History - Taught 180 points": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science and Technology (Agricultural": {
+        "catalog_id": 111,
+        "standardized_name": "Postgraduate Diploma in Agricultural Science",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Computer Systems Engineering - Resea": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Economics (MEcon)": {
+        "catalog_id": 353,
+        "standardized_name": "Master of Applied Finance and Economics",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Technology Innovation in Business (MTIB)": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Laws by thesis": {
+        "catalog_id": 1549,
+        "standardized_name": "Master of Laws",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Teaching (Secondary) (GDTSE-S15O-GDTSE)": {
+        "catalog_id": 234,
+        "standardized_name": "Graduate Diploma in Secondary Teaching",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Teaching and Learning": {
+        "catalog_id": 691,
+        "standardized_name": "Graduate Diploma in Teaching and Learning (Early Childhood)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Commerce - Information Systems": {
+        "catalog_id": 1034,
+        "standardized_name": "Master of Commerce (MCom)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Translation and Interpreting": {
+        "catalog_id": 656,
+        "standardized_name": "Master of Applied Translation and Interpreting",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Teaching and Learning": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Mechanical Engineering - Tau": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Food Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Linguistics - MAppLing": {
+        "catalog_id": 729,
+        "standardized_name": "Master of Linguistics",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Bioscience Enterprise": {
+        "catalog_id": 875,
+        "standardized_name": "Master of Bioscience Enterprise MBioEnt",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Architectural Engineering - Integrated Building De": {
+        "catalog_id": 324,
+        "standardized_name": "Master of Architectural Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Leadership - Global Health - Taught 180 poi": {
+        "catalog_id": 1425,
+        "standardized_name": "Master of Health",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Studies (MIntSt)": {
+        "catalog_id": 1072,
+        "standardized_name": "Master of International Studies (MIntSt)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Screen Production": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Urban Planning (Professional) - Urban Planning - T": {
+        "catalog_id": 1026,
+        "standardized_name": "Master of Planning (MPlan)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Urban and Regional Planning": {
+        "catalog_id": 1026,
+        "standardized_name": "Master of Planning (MPlan)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Clinical Exercise Physiology": {
+        "catalog_id": 505,
+        "standardized_name": "Master of Clinical Exercise Physiology MClinExPhys",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Construction (Level 7)": {
+        "catalog_id": 1240,
+        "standardized_name": "Graduate Diploma in Construction and Facilities Management – GradDipConstFM",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Practice in Mental Health and Addictions": {
+        "catalog_id": 455,
+        "standardized_name": "Master of Health Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering in Chemical and Process Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Behaviour Analysis": {
+        "catalog_id": 829,
+        "standardized_name": "Master of Behaviour Analysis MBehAnalysis",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Veterinary Studies (Without Specialisation)": {
+        "catalog_id": 1366,
+        "standardized_name": "Master of Veterinary Studies – MVS",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Media and Creative Technologies (MMCT)": {
+        "catalog_id": 451,
+        "standardized_name": "Master of Creative Technologies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Business Accounting": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Pest Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Management (Project Management)": {
+        "catalog_id": 72,
+        "standardized_name": "Postgraduate Diploma in Environmental Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Forensic Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering - Chemical and Biological Engineering": {
+        "catalog_id": 1565,
+        "standardized_name": "Master of Engineering",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Diploma for Graduates in Environmental Management": {
+        "catalog_id": 1087,
+        "standardized_name": "Diploma for Graduates (DipGrad)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Leadership - Health Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science (MAppSc) in Bioengineering": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science (PGDipSci) in Food Science": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Accounting": {
+        "catalog_id": 1485,
+        "standardized_name": "Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Applied Science - Environmental Management": {
+        "catalog_id": 1068,
+        "standardized_name": "Master of Applied Science (MAppSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Construction (Quantity Surveying)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Arts - Media Studies": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Science - Rehabilitation": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Public Policy - Taught 180 points": {
+        "catalog_id": 985,
+        "standardized_name": "Master of Public Policy",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies in Computer Systems Engineerin": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Public Policy - Taught 120 points": {
+        "catalog_id": 985,
+        "standardized_name": "Master of Public Policy",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences - Nursing": {
+        "catalog_id": 1002,
+        "standardized_name": "Master of Health Sciences (MHealSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Bioprotection": {
+        "catalog_id": 5,
+        "standardized_name": "Master of Bioprotection",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Education endorsed in Tertiary Teaching": {
+        "catalog_id": 1527,
+        "standardized_name": "Master of Education",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Agribusiness": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Sciences - Taught 180 points": {
+        "catalog_id": 1002,
+        "standardized_name": "Master of Health Sciences (MHealSc)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Actuarial Science - MActSc": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Electronics and Computer Eng": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Arts - Politics and International Re": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management - Marketing": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies-(Geotechnical Engineering)": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of International Business - Taught 240 points": {
+        "catalog_id": 1519,
+        "standardized_name": "Master of Business",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Educational Leadership and Managemen": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Energy": {
+        "catalog_id": 831,
+        "standardized_name": "Master of Energy MEnergy",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Literature - English": {
+        "catalog_id": 585,
+        "standardized_name": "Master of Literature MLitt",
+        "confidence_score": 87,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Energy - Research 180 points": {
+        "catalog_id": 831,
+        "standardized_name": "Master of Energy MEnergy",
+        "confidence_score": 89,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Studies-(Data Science)": {
+        "catalog_id": 480,
+        "standardized_name": "Master of Professional Studies MProfStuds",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management - Business": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Professional Studies-(Digital Security)": {
+        "catalog_id": 480,
+        "standardized_name": "Master of Professional Studies MProfStuds",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Plastics": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Physiotherapy (PGDipPhty)": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Health Science - Violence and Trauma": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Science in Psychology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Fine Arts - Creative Practice [Design]": {
+        "catalog_id": 1566,
+        "standardized_name": "Master of Arts (Applied)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science (MSc) in Environmental Sciences": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Professional Master of Computer Science": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Clinical Research": {
+        "catalog_id": 158,
+        "standardized_name": "Master of Clinical Practice (Midwifery)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Health Practice": {
+        "catalog_id": 260,
+        "standardized_name": "Master of Health Sciences Professional Practice",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Management (Level 9)": {
+        "catalog_id": 168,
+        "standardized_name": "Master of Water Science and Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Audiology": {
+        "catalog_id": 300,
+        "standardized_name": "Master of Audiology",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science - Psychology - Taught 120 points": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Science in Psychology": {
+        "catalog_id": 1513,
+        "standardized_name": "Master of Science (Research)",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Environmental Policy and Management": {
+        "catalog_id": 1515,
+        "standardized_name": "Master of Management",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Graduate Diploma in Contemporary Music": {
+        "catalog_id": 1485,
+        "standardized_name": "Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Postgraduate Diploma in Science - Biotechnology": {
+        "catalog_id": 118,
+        "standardized_name": "Postgraduate Diploma",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    },
+    "Master of Engineering Studies - Mechatronics Engineering - T": {
+        "catalog_id": 693,
+        "standardized_name": "Master of Engineering Studies",
+        "confidence_score": 100,
+        "resolution_method": "deterministic_fuzzy_regex"
+    }
+}

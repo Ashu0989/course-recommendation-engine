@@ -1,0 +1,16 @@
+data_paths:
+  raw_students_data: "data/raw/Student_Data_NZ_analysis.xlsx"
+  raw_Univ_data: "data/raw/University_database.csv"
+  processed_students: "data/processed/students_clean.csv"
+  processed_catalog: "data/processed/catalog_clean.csv"
+  course_mapping: "data/mappings/course_name_mapping.json"
+
+thresholds:
+  fuzzy_match_min_score: 85
+  min_gpa_allowed_deviation: 5.0
+
+rerank_weights:
+  affinity: 0.4
+  predictive_success: 0.3
+  green_list_bonus: 0.2
+  psw_duration_bonus: 0.1
